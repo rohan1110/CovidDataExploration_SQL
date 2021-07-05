@@ -5,14 +5,12 @@ The datasourse was collected from *ourworldindata.org* where the data was built 
 
 Covid19 datasource : https://ourworldindata.org/coronavirus
 
-![coronavirus-data-explorer](https://user-images.githubusercontent.com/63396845/124469609-33571c80-ddb8-11eb-95a4-5042c53badd5.png)
-
 ![coronavirus-data-explorer2](https://user-images.githubusercontent.com/63396845/124471839-fb9da400-ddba-11eb-8110-7edb508b9138.png)
 
 For sake of simplifing the operations on the dataset, it is divided into 2 parts, first *CovisDeaths* and second, *CovidVacc*. We have quiried these datasets seperately and later on joined them and to perform operations.
 
 **The skills used in this data exploration are :** 
-* Joins, 
+* Joins 
 * CTE's
 * Temp Tables
 * Windows Functions
