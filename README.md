@@ -9,13 +9,13 @@ Covid19 datasource : https://ourworldindata.org/coronavirus
 For sake of simplifing the operations on the dataset, it is divided into 2 parts, first *CovisDeaths* and second, *CovidVacc*. We have quiried these datasets seperately and later on joined them and to perform operations.
 
 **The skills used in this data exploration are :** 
-*Joins, 
-*CTE's
-*Temp Tables
-*Windows Functions
-*Aggregate Functions
-*Creating Views
-*Converting Data Types
+* Joins, 
+* CTE's
+* Temp Tables
+* Windows Functions
+* Aggregate Functions
+* Creating Views
+* Converting Data Types
 
 The data that was aquired using different queries is :
 
