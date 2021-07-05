@@ -1,5 +1,4 @@
-# CovidDataExploration_SQL
-## Covid 19 Data Exploration using SQL
+# Covid 19 Data Exploration using SQL
 
 The datasourse was collected from *ourworldindata.org* where the data was built on 207 country profiles which allows to explore the statistics on the coronavirus pandemic for every country in the world.
 
