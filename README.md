@@ -19,6 +19,9 @@ For sake of simplifing the operations on the dataset, it is divided into 2 parts
 * Creating Views
 * Converting Data Types
 
+![SQL queries image](https://user-images.githubusercontent.com/63396845/124611698-4f79bd00-de8f-11eb-865c-cda4be6bb01f.jpg)
+
+
 **The data that was aquired using different queries is :**
 
 * Total Cases vs Total Deaths
